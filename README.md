@@ -47,7 +47,7 @@
 
 🔹 **MP3 export** – to reduce file sizes for downloads  
 
-🔹 **Better mobile UX** – Sliders need to be bigger for mobile users  
+🔹 **Better mobile UX** – sliders need to be bigger for mobile users  
 
 ---  
 

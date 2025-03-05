@@ -37,7 +37,7 @@
 ---  
 
 ## 🛠️ Tech Used  
-🚀 React, Tone.js, Tailwind CSS, Flask, Web Audio API  
+🚀 React, Tone.js, Tailwind CSS, Flask, Web Audio API, CentOS VPS
 
 ---  
 

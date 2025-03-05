@@ -11,14 +11,6 @@
 
 ---  
 
-## 🎛️ How It Works  
-1. **Upload an audio file** or **paste a YouTube link**  
-2. **Adjust pitch, BPM, and reverb** in real time  
-3. **Listen & tweak** to perfection  
-4. **Download your masterpiece 🎵**  
-
----  
-
 ## 📸 Screenshots  
 <p align="center">
   <img src="https://github.com/user-attachments/assets/50eff435-4f53-4974-8e46-3b05dd523ee3" height="500" style="margin-right: 10px;">

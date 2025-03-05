@@ -42,6 +42,8 @@
 
 ❌ **Downloads are too large** – currently outputs huge WAV files, needs optimization  
 
+❌ **Start player button lag**
+
 ### 🔮 Future Goals  
 🔹 **More controls & effects** – finer pitch, speed, and reverb tuning  
 

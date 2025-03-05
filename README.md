@@ -20,9 +20,11 @@
 ---
 
 ## 📸 Screenshots  
-<img src="https://github.com/user-attachments/assets/50eff435-4f53-4974-8e46-3b05dd523ee3" width="400">
 
-<img src="https://github.com/user-attachments/assets/0c3a123f-4f87-4eb0-bb02-67edfeb58e91" width="400">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/50eff435-4f53-4974-8e46-3b05dd523ee3" width="300" height="500" style="vertical-align: top; margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/0c3a123f-4f87-4eb0-bb02-67edfeb58e91" width="300" height="500" style="vertical-align: top;">
+</p>
 
 ---
 

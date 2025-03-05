@@ -23,8 +23,8 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/50eff435-4f53-4974-8e46-3b05dd523ee3" height="500" style="margin-right: 10px;">
   <img src="https://github.com/user-attachments/assets/0c3a123f-4f87-4eb0-bb02-67edfeb58e91" height="500">
-</p>
- 
+</p>  
+
 ---  
 
 ## 🏆 Info & Achievements  
@@ -32,7 +32,7 @@
 
 🚀 **Hit 1,000+ viewers** within the first 24 hours  
 
-🎧 **Processed 1,000+ songs** already!  
+🎧 **Processed 1,000+ songs!** 
 
 ---  
 
@@ -53,7 +53,7 @@
 
 🔹 **MP3 export** – to reduce file sizes for downloads  
 
-🔹 **Better mobile UX** - Sliders need to be bigger for mobile users  
+🔹 **Better mobile UX** – Sliders need to be bigger for mobile users  
 
 ---  
 

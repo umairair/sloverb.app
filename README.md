@@ -20,10 +20,12 @@
 ---  
 
 ## 📸 Screenshots  
-![Image](https://github.com/user-attachments/assets/50eff435-4f53-4974-8e46-3b05dd523ee3)  
 
-![Image](https://github.com/user-attachments/assets/0c3a123f-4f87-4eb0-bb02-67edfeb58e91)  
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/50eff435-4f53-4974-8e46-3b05dd523ee3" width="350" height="250">
+  <img src="https://github.com/user-attachments/assets/0c3a123f-4f87-4eb0-bb02-67edfeb58e91" width="350" height="250">
+</p>
+ 
 ---  
 
 ## 🏆 Info & Achievements  

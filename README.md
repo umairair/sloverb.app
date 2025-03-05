@@ -60,4 +60,4 @@
 ## 🌎 Try It Now  
 🔗 **[sloverb.app](https://sloverb.app)**  
 
-🌌 created by [umair][([https://github.com/umairgithub](https://github.com/umairair)]
+🌌 [created by umair](https://github.com/umairair)

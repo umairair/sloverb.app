@@ -1,4 +1,4 @@
-# 🎵 sloverb.app – Slow + Reverb / Nightcore for any song
+# 🎵 🔗 **[sloverb.app](https://sloverb.app)**   – Slow + Reverb / Nightcore for any song
 
 ## 🔥 Features  
 ✅ **Upload audio or use YouTube links**  
@@ -32,6 +32,6 @@
 ---
 
 ## 🌎 Try It Now  
-🔗 **[Sloverb.app](https://sloverb.app)**  
+🔗 **[sloverb.app](https://sloverb.app)**  
 
 🙌 Created by [Umair](https://github.com/umairgithub)  

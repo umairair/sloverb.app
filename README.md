@@ -30,7 +30,7 @@
 ## 🏆 Info & Achievements  
 📅 **Deployed on:** February 27, 2025  
 
-🚀 **Hit 1,000+ viewers** within the first 24 hours  
+🌍 **1,000+ visitors worldwide** within the first 24 hours 
 
 🎧 **Processed 1,000+ songs!** 
 

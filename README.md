@@ -26,7 +26,7 @@
 
 🌍 **1,000+ visitors worldwide** within the first 24 hours 
 
-🎧 **Processed 1,000+ songs!** 
+🎧 **Processed 1294 songs!** 
 
 ---  
 
